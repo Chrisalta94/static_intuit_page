@@ -1,0 +1,116 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+html {
+	background-color: #ECEEF1;
+}
+.forgotPass {
+	padding-top: 10px;
+	margin-left: 82%;
+}
+.forgotPass p{
+	float: left; 
+	padding-right: 10px;
+	font-size: 13px;
+	text-align: right;
+}
+.signIn {
+	width: 100px;
+	height: 35px;
+	border-radius: 4px;
+	border:#0077C5;
+	background-color: #0077C5;
+	color: #fff;
+	cursor: pointer;
+	font-size: 13px;
+}
+.logo{
+	margin-top: 5%;
+	text-align: center;
+	padding-bottom: 7px;
+}
+.underLogo {
+	text-align: center;
+	padding-bottom: 7px;
+}
+.container {
+	width: 400px;
+	height: 668px;
+	border: 1px solid #c7c7c7;
+	margin:auto;
+	text-align: center;
+	background-color: white;
+	font-family: 'Nunito Sans', sans-serif;
+}
+.heading{
+	text-align: center;
+	padding-top: 40px;
+}
+.headingTwo {
+text-align: center;
+padding-top: 15px;
+}
+form {
+	display: table;
+	margin: auto;
+	margin-top: 7%;
+	text-align: center;
+}
+.row label {
+  display: table-cell;
+  padding-bottom: 10px;
+  font-size: 15px;
+  letter-spacing: 2px;
+}
+.row input {
+  display: table-cell;
+  padding: 5px;
+  height: 22px;
+  width: 250px;
+}
+.newAccount{
+	margin-top: 45px;
+	width: 250px;
+	height: 45px;
+	border-radius: 4px;
+	border:#0077C5;
+	background-color: #0077C5;
+	color: #fff;
+	cursor: pointer;
+	font-size: 15.75px;
+	padding: 6px 12px;
+}
+.formFooter {
+	padding-top: 33px;
+	padding-left: 10px;
+	font-style: italic;
+	color: #757575;
+	width: 380px;
+}
+.formFooter h5{
+	font-weight: 400;
+	line-height: 18px;
+}
+.extraFooter{
+	height: 40px;
+    background-color: #ECEEF1;
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 25px;
+    color: #757575;
+}
+.footer {
+	text-align: center;
+    margin-top: 25px;
+    color: #757575;
+}
+.lps {
+    text-align: center;
+    margin-bottom: 2px;
+}
+.copyright {
+    color: #505050;
+    font-size: 14px;
+}
+
